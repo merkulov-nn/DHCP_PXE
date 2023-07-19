@@ -463,26 +463,7 @@ LABEL local
 
 
 ```shell
-vagrant up pxeclient
-```
 
-Экран 
-
-<img src="./027_tobe/files/001.png" alt="drawing" width="500"/>
-
-Успешно 
-
-<img src="./027_tobe/files/002.1.png" alt="drawing" width="500"/>
-
-<img src="./027_tobe/files/002.2.png" alt="drawing" width="500"/>
-
-Интерфейс установки
-
-<img src="./027_tobe/files/004.png" alt="drawing" width="500"/>
-
-Замечание: важно соблюдать совпадение версии всех дистрибутивов и содержания `syslinux-tftpboot-version-architecture.rpm`. Иначе будет ошибка
-
-<img src="./027_tobe/files/003.png" alt="drawing" width="500"/>
 
 Замечание: как извлечь см [тут](https://docs.centos.org/en-US/8-docs/advanced-install/assembly_preparing-for-a-network-install/)
 
